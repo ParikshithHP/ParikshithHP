@@ -24,7 +24,7 @@
   <a href="mailto:parikshithshettyhp080@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/parikshith-h-p](https://linkedin.com/in/parikshith-h-p?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+  <a href="https://linkedin.com/in/parikshith-h-p" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://linkedin.com/in/parikshith-h-p" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
